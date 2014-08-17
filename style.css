@@ -5,10 +5,16 @@ and open the template in the editor.
 */
 /* 
     Created on : 09/08/2014, 10:12:49
-    Author     : ronald
+    Author     : ronald b. falcão
 */
 
 label{
     font-weight: bold;
 }
 
+.sub-topic{
+    background-color: #CCCCCC;
+    border: 1px dotted black;
+    margin: 5px;
+    padding: 5px;
+}
